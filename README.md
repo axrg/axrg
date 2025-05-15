@@ -100,6 +100,6 @@ Herramientas:   Git | Linux | VSCode | Scikit-learn | NLTK | Figma | Canva
 > "La tecnología bien dirigida puede ser el motor de cambio más poderoso que existe."
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif](https://tenor.com/es/view/death-stranding-sam-bridges-thumbs-up-hideo-kojima-norman-reedus-gif-27236384)" width="300">
+  <img src="https://media1.tenor.com/m/j6piu5bth90AAAAd/death-stranding-sam-bridges.gif" width="300">
 </p>
 
