@@ -1,7 +1,8 @@
 
 <!-- WOW GitHub README for Angélica Xcaret Reséndiz García -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FCBAFF&center=true&width=1000&height=100&lines=Hola%2C+aqu%C3%AD+Xcaret;FullStack+Dev+%7C+Robotics+Enthusiastic+%7C+Data+Scientist+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FCBAFF&center=true&width=1000&height=69&lines=Hola%2C+aqu%C3%AD+Xcaret;FullStack+Dev+%7C+Robotics+Enthusiastic+%7C+Data+Scientist+" alt="Typing SVG" /></a>
+
 <h1 align="center">👩‍💻 Xcaret </h1>
 <h3 align="center">🚀 Fullstack Developer | 🤖 Visión y Robótica | 📊 Ciencia de Datos | 💡 Educadora STEM</h3>
 
