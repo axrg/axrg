@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7D745&center=true&width=435&lines=Hola%2C+soy+Ang%C3%A9lica+Xcaret+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Fullstack+Dev+%7C+Vision+Robotics+Maker+%7C+Data+Lover+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
 
-<h1 align="center">👩‍💻 Angélica Xcaret Reséndiz García</h1>
+<h1 align="center">👩‍💻 Xcaret </h1>
 <h3 align="center">🚀 Fullstack Developer | 🤖 Visión y Robótica | 📊 Ciencia de Datos | 💡 Educadora STEM</h3>
 
 <p align="center">
